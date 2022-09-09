@@ -1,5 +1,5 @@
-nama 
-kelas
+nama : raka 
+kelas MI 4B
 npm 
 prodi 
 jurusan 
