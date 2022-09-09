@@ -1,5 +1,5 @@
-nama : gede
-kelas : MI 4a
+nama : raka 
+kelas MI 4B
 npm 
 prodi 
 jurusan 
